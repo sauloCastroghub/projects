@@ -1,0 +1,345 @@
+{
+   "products":[
+      {
+         "id":"1",
+         "title":"Samsung Galaxy A55 5G8 GB verde-claro 4 GB RAM",
+         "salesInfo":{
+            "condition":"Novo",
+            "soldCount":4867
+         },
+         "pricing":{
+            "originalPrice":899.00,
+            "currentPrice":616.45,
+            "discountPercent":"32%"
+         },
+         "paymentMethods":{
+            "pix":{
+               "discountedPrice":616.45,
+               "text":"OFF no Pix"
+            },
+            "installments":{
+               "pricePerInstallment":51.37,
+               "numberOfInstallments":12,
+               "totalPrice":616.45,
+               "text":"12x R$ 51,37 sem juros"
+            }
+         },
+         "brand":"Samsung",
+         "stockStatus":"Estoque disponível",
+         "shippingInfo":{
+            "deliveryTime":"Chegará grátis amanhã, domingo",
+            "deliveryEstimate":"Comprando dentro dos próximos 15 min",
+            "pickupOption":"Retire grátis a partir de segunda-feira em uma agência Mercado Livre",
+            "viewMapLink":"#"
+         },
+         "productImages":{
+            "urls":[
+               "/images/celulares/cel01.png",
+               "/images/celulares/cel04.png",
+               "/images/celulares/cel05.png",
+               "/images/celulares/cel07.png"
+            ],
+            "mainImage":"/images/celulares/cel01.png"
+         },
+         "sellerInfo":{
+            "name":"Loja Oficial de Samsung",
+            "rating":"4.7",
+            "reviewsCount":"10000+",
+            "salesCount":"50000+",
+            "reputationColor":"green",
+            "link":"#"
+         },
+         "features":[
+            {
+               "name":"Marca",
+               "value":"Samsung"
+            },
+            {
+               "name":"Linha",
+               "value":"Galaxy"
+            },
+            {
+               "name":"Modelo",
+               "value":"A06"
+            },
+            {
+               "name":"Memória interna",
+               "value":"128 GB"
+            },
+            {
+               "name":"Memória RAM",
+               "value":"4 GB"
+            },
+            {
+               "name":"Câmera traseira principal",
+               "value":"50 MP"
+            },
+            {
+               "name":"Câmera frontal principal",
+               "value":"8 MP"
+            },
+            {
+               "name":"Tamanho da tela",
+               "value":"6.5 polegadas"
+            },
+            {
+               "name":"Tecnologia da tela",
+               "value":"IPS LCD"
+            },
+            {
+               "name":"Com NFC",
+               "value":"Não"
+            },
+            {
+               "name":"Com leitor de impressão digital",
+               "value":"Sim"
+            },
+            {
+               "name":"Capacidade da bateria",
+               "value":"5000 mAh"
+            }
+         ],
+         "description":"Com seu potente processador e 4 GB de RAM, seu Samsung Galaxy A06 oferecerá um alto desempenho ao executar aplicativos e jogos. Com a unidade de armazenamento de 128 GB, você poderá guardar seus arquivos e documentos, acessar o mundo das mídias digitais e ainda ter espaço para mais!\n\nCapture cada momento em alta resolução com a câmera traseira de 50MP. Desfrute de fotos nítidas e vibrantes. Com a tela IPS LCD de 6.5 polegadas, você terá uma experiência visual imersiva e cores vivas para seus filmes, jogos e navegação. A bateria de 5000 mAh garante que você fique conectado por mais tempo, sem se preocupar em recarregar constantemente. Imagem meramente ilustrativa. O tempo de entrega pode variar.",
+         "reviews":{
+            "average":4.5,
+            "total":1500,
+            "breakdown":[
+               {
+                  "stars":5,
+                  "percentage":70
+               },
+               {
+                  "stars":4,
+                  "percentage":15
+               },
+               {
+                  "stars":3,
+                  "percentage":8
+               },
+               {
+                  "stars":2,
+                  "percentage":4
+               },
+               {
+                  "stars":1,
+                  "percentage":3
+               }
+            ],
+            "reviewComments":[
+               {
+                  "id":"rev001",
+                  "user":"Ana P.",
+                  "rating":5,
+                  "date":"2024-07-10",
+                  "comment":"Celular excelente! Bateria dura muito e a câmera é ótima para o dia a dia."
+               },
+               {
+                  "id":"rev002",
+                  "user":"Carlos M.",
+                  "rating":4,
+                  "date":"2024-07-05",
+                  "comment":"Bom aparelho, rápido e bonito. A entrega foi super rápida. Recomendo!"
+               },
+               {
+                  "id":"rev003",
+                  "user":"Paula S.",
+                  "rating":5,
+                  "date":"2024-07-01",
+                  "comment":"Estou muito satisfeita com a compra. O desempenho é impecável e a tela tem cores vibrantes."
+               }
+            ]
+         },
+         "recommendations":[
+            {
+               "id":"p001",
+               "name":"Capa protetora para Galaxy A06",
+               "price":49.90,
+               "imageUrl":"/images/celulares/celRel01.png"
+            },
+            {
+               "id":"p002",
+               "name":"Fone de ouvido sem fio Bluetooth",
+               "price":120.00,
+               "imageUrl":"/images/celulares/celRel02.png"
+            },
+            {
+               "id":"p003",
+               "name":"Carregador rápido 25W Samsung",
+               "price":99.00,
+               "imageUrl":"/images/celulares/celRel03.png"
+            }
+         ]
+      },
+      {
+         "id":"2",
+         "title":"Celular Samsung Galaxy A06 Dual SIM 128 GB verde-claro 4 GB RAM",
+         "salesInfo":{
+            "condition":"Novo",
+            "soldCount":4867
+         },
+         "pricing":{
+            "originalPrice":899.00,
+            "currentPrice":616.45,
+            "discountPercent":"32%"
+         },
+         "paymentMethods":{
+            "pix":{
+               "discountedPrice":616.45,
+               "text":"OFF no Pix"
+            },
+            "installments":{
+               "pricePerInstallment":51.37,
+               "numberOfInstallments":12,
+               "totalPrice":616.45,
+               "text":"12x R$ 51,37 sem juros"
+            }
+         },
+         "brand":"Samsung",
+         "stockStatus":"Estoque disponível",
+         "shippingInfo":{
+            "deliveryTime":"Chegará grátis amanhã, domingo",
+            "deliveryEstimate":"Comprando dentro dos próximos 15 min",
+            "pickupOption":"Retire grátis a partir de segunda-feira em uma agência Mercado Livre",
+            "viewMapLink":"#"
+         },
+         "productImages":{
+            "urls":[
+               "/images/product-galaxy-a06-main.png",
+               "/images/product-galaxy-a06-thumb1.png",
+               "/images/product-galaxy-a06-thumb2.png",
+               "/images/product-galaxy-a06-thumb3.png",
+               "/images/product-galaxy-a06-thumb4.png"
+            ],
+            "mainImage":"/images/product-galaxy-a06-main.png"
+         },
+         "sellerInfo":{
+            "name":"Loja Oficial de Samsung",
+            "rating":"4.7",
+            "reviewsCount":"10000+",
+            "salesCount":"50000+",
+            "reputationColor":"green",
+            "link":"#"
+         },
+         "features":[
+            {
+               "name":"Marca",
+               "value":"Samsung"
+            },
+            {
+               "name":"Linha",
+               "value":"Galaxy"
+            },
+            {
+               "name":"Modelo",
+               "value":"A06"
+            },
+            {
+               "name":"Memória interna",
+               "value":"128 GB"
+            },
+            {
+               "name":"Memória RAM",
+               "value":"4 GB"
+            },
+            {
+               "name":"Câmera traseira principal",
+               "value":"50 MP"
+            },
+            {
+               "name":"Câmera frontal principal",
+               "value":"8 MP"
+            },
+            {
+               "name":"Tamanho da tela",
+               "value":"6.5 polegadas"
+            },
+            {
+               "name":"Tecnologia da tela",
+               "value":"IPS LCD"
+            },
+            {
+               "name":"Com NFC",
+               "value":"Não"
+            },
+            {
+               "name":"Com leitor de impressão digital",
+               "value":"Sim"
+            },
+            {
+               "name":"Capacidade da bateria",
+               "value":"5000 mAh"
+            }
+         ],
+         "description":"Com seu potente processador e 4 GB de RAM, seu Samsung Galaxy A06 oferecerá um alto desempenho ao executar aplicativos e jogos. Com a unidade de armazenamento de 128 GB, você poderá guardar seus arquivos e documentos, acessar o mundo das mídias digitais e ainda ter espaço para mais!\n\nCapture cada momento em alta resolução com a câmera traseira de 50MP. Desfrute de fotos nítidas e vibrantes. Com a tela IPS LCD de 6.5 polegadas, você terá uma experiência visual imersiva e cores vivas para seus filmes, jogos e navegação. A bateria de 5000 mAh garante que você fique conectado por mais tempo, sem se preocupar em recarregar constantemente. Imagem meramente ilustrativa. O tempo de entrega pode variar.",
+         "reviews":{
+            "average":4.5,
+            "total":1500,
+            "breakdown":[
+               {
+                  "stars":5,
+                  "percentage":70
+               },
+               {
+                  "stars":4,
+                  "percentage":15
+               },
+               {
+                  "stars":3,
+                  "percentage":8
+               },
+               {
+                  "stars":2,
+                  "percentage":4
+               },
+               {
+                  "stars":1,
+                  "percentage":3
+               }
+            ],
+            "reviewComments":[
+               {
+                  "id":"rev001",
+                  "user":"Ana P.",
+                  "rating":5,
+                  "date":"2024-07-10",
+                  "comment":"Celular excelente! Bateria dura muito e a câmera é ótima para o dia a dia."
+               },
+               {
+                  "id":"rev002",
+                  "user":"Carlos M.",
+                  "rating":4,
+                  "date":"2024-07-05",
+                  "comment":"Bom aparelho, rápido e bonito. A entrega foi super rápida. Recomendo!"
+               },
+               {
+                  "id":"rev003",
+                  "user":"Paula S.",
+                  "rating":5,
+                  "date":"2024-07-01",
+                  "comment":"Estou muito satisfeita com a compra. O desempenho é impecável e a tela tem cores vibrantes."
+               }
+            ]
+         },
+         "recommendations":[
+            {
+               "id":"p001",
+               "name":"Capa protetora para Galaxy A06",
+               "price":49.90,
+               "imageUrl":"/images/celulares/celRel01.png"
+            },
+            {
+               "id":"p002",
+               "name":"Fone de ouvido sem fio Bluetooth",
+               "price":120.00,
+               "imageUrl":"/images/celulares/celRel02.png"
+            },
+            {
+               "id":"p003",
+               "name":"Carregador rápido 25W Samsung",
+               "price":99.00,
+               "imageUrl":"/images/celulares/celRel03.png"
+            }
+         ]
+      }
+   ]
+}

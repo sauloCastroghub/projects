@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./products-spring-boot # Caminho para o diretório do Dockerfile do backend
+      dockerfile: Dockerfile # Nome do Dockerfile dentro do diretório do backend
+    ports:
+      - "8080:8080" # Mapeia a porta 8080 do host para a porta 8080 do contêiner
+
+  frontend:
+    build:
+      context: ./products-page # Caminho para o diretório do Dockerfile do frontend
+      dockerfile: Dockerfile # Nome do Dockerfile dentro do diretório do frontend
+    ports:
+      - "3000:3000" # Mapeia a porta 3000 do host para a porta 3000 do contêiner
+    environment:
+      # Exemplo de variáveis de ambiente para o frontend.
+      # A URL da API do backend ainda aponta para o serviço 'backend' no Docker Compose.
+      REACT_APP_API_URL: http://backend:8080
+    depends_on:
+      - backend # Garante que o frontend só inicie depois que o backend estiver disponível

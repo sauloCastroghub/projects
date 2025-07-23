@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "3000:3000" # Mapeia a porta 3000 do host para a porta 3000 do contêiner
+    volumes:
+      - .:/app    # Monta o diretório atual do seu projeto dentro do contêiner
+      - /app/node_modules # Garante que node_modules do host não sobrescreva o do contêiner
+    environment:
+      NODE_ENV: development # Exemplo de variável de ambiente
+    command: npm start # Ou "node app.js" se você não tiver um script "start" no package.json
