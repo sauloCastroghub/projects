@@ -6,7 +6,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-$ git clone <YOUR_GIT_URL>
+$ git clone https://github.com/sauloCastroghub/projects.git
 
 # Step 2: Navigate to the project directory.
 $ cd products-page
@@ -20,9 +20,8 @@ $ npm run dev
 # Step 5: Show application .
 http://localhost:3000/produto
 
-## What technologies are used for this project?
-
-This project is built with:
+```
+## This project is built with:
 
 - Vite
 - TypeScript

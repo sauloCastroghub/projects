@@ -28,7 +28,7 @@ Projeto com objetivo dar suporte (Product Spring Boot) uma página(Product Page)
 ```
 
 ## Baixar projeto no git
-$ git clone https://github.com/sauloCastroghub/project-meli.git
+$ git clone https://github.com/sauloCastroghub/projects.git
 
 ## Instalação - Product Spring Boot
 

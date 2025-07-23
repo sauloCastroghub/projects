@@ -22,7 +22,7 @@ Projeto tem como objetivo dar suporte em uma página(prototipo) de detalhes de i
 ## Instalação
 
 ```
-$ git clone https://github.com/sauloCastroghub/products-spring-boot.git
+$ git clone https://github.com/sauloCastroghub/projects.git
 
 ```
 
